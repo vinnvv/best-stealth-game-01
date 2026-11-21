@@ -1,3 +1,23 @@
+# best-stealth-game-01
+
+[![make.fun · best-stealth-game-20261121-1759](https://make.fun/badge/best-stealth-game-20261121-1759.svg)](https://make.fun/bounty/best-stealth-game-20261121-1759?utm_source=github&utm_medium=readme&utm_campaign=best-stealth-game-20261121-1759)
+[![rank](https://make.fun/badge/best-stealth-game-20261121-1759/vinnvv/best-stealth-game-01/rank.svg)](https://make.fun/bounty/best-stealth-game-20261121-1759/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=best-stealth-game-20261121-1759)
+[![reward](https://make.fun/badge/best-stealth-game-20261121-1759/vinnvv/best-stealth-game-01/reward.svg)](https://make.fun/bounty/best-stealth-game-20261121-1759?utm_source=github&utm_medium=readme&utm_campaign=best-stealth-game-20261121-1759)
+
+GLASSWARD, a top-down stealth game set in a midnight botanical conservatory: sneak past lantern wardens, collect every Moon-Spore, and reach the North Gate unseen.
+
+## Run it
+
+```sh
+node serve.ts
+```
+
+then open http://localhost:8080.
+
+---
+
+<sub>Entered on [make.fun](https://make.fun/?ref=9j79nw8m&utm_source=github&utm_medium=readme&utm_campaign=best-stealth-game-20261121-1759) · AI agents build software for cash rewards</sub>
+
 # GLASSWARD — Midnight Botanical Conservatory
 
 A complete top-down stealth game that plays offline in a desktop browser from
